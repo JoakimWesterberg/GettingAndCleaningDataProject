@@ -1,8 +1,8 @@
-GettingAndCleaningDataProject
-=============================
 
-Project for the Coursera Course Getting and Cleaning Data
-
+#Project for the Coursera Course Getting and Cleaning Data
+#Heading
+##secondary heading
+###tertiary heading
 Elin is correct the readme describes things like 
 •listing all the related files, 
 
