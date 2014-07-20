@@ -1,4 +1,4 @@
-#Project for Getting and Cleaning Data
+#Project for Getting and Cleaning Data - Read Me
 
 #Related files
 The files uploaded to Github are
