@@ -1,5 +1,4 @@
-
-#Project for the Coursera Course Getting and Cleaning Data
+#Project for Getting and Cleaning Data
 #Heading
 ##secondary heading
 ###tertiary heading
