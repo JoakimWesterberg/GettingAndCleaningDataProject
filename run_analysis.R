@@ -138,5 +138,5 @@ colNamesTidy <- paste(colNames,"-average", sep="")
 ## Name the columns
 colnames(dataRelevantMean) <- c("subject","activity",colNamesTidy)
 
-#write the data to a tab separated file called "tidy_data.tsv"
+## write the data to a tab separated file called "tidy_data.tsv"
 write.csv2(tidy_data, file="tidy_data.csv", quote=FALSE)
